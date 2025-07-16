@@ -1,0 +1,143 @@
+{
+  "2025-07-16": {
+    "gates": {
+      "jam": "13.00 – 15.00 & 20.00 – 22.00",
+      "pola": [
+        "Turbo 20x – Bet 600",
+        "Manual 10x – Bet 1000",
+        "Buy Free Spin 1x – Modal bebas"
+      ],
+      "tips": "Pantau scatter di reel 2–4, stop jika profit 2x modal"
+    },
+    "starlight": {
+      "jam": "11.00 – 13.00",
+      "pola": [
+        "Manual 15x – Bet 400",
+        "Turbo 25x – Bet 800",
+        "Buy FS 2x – Bet 1000"
+      ],
+      "tips": "Kalau keluar x100 tapi tidak connect, stop 15 menit"
+    },
+    "mahjong": {
+      "jam": "21.00 – 23.00",
+      "pola": [
+        "Turbo 10x – Bet 800",
+        "Manual 20x – Bet 1200",
+        "Buy FS 1x"
+      ],
+      "tips": "Perhatikan huruf hijau & merah sering connect sebelum FS"
+    },
+    "sweet": {
+      "jam": "10.00 – 12.00 & 19.00 – 21.00",
+      "pola": [
+        "Manual 10x – Bet 500",
+        "Auto 30x – Bet 1000",
+        "Buy 1x – Bet bebas"
+      ],
+      "tips": "Gula warna-warni sering muncul berturut sebelum scatter"
+    },
+    "bonanza": {
+      "jam": "14.00 – 16.00",
+      "pola": [
+        "Turbo 15x – Bet 600",
+        "Manual 10x – Bet 1000",
+        "Buy FS 2x – Bet 1200"
+      ],
+      "tips": "Kalau connect berturut 3x, lanjut sampai FS pertama"
+    }
+  },
+  "2025-07-17": {
+    "gates": {
+      "jam": "14.00 – 16.00",
+      "pola": [
+        "Manual 12x – Bet 700",
+        "Turbo 18x – Bet 900",
+        "Buy Free Spin 2x – Modal fleksibel"
+      ],
+      "tips": "Perhatikan scatter keluar berurutan"
+    },
+    "starlight": {
+      "jam": "10.00 – 12.00",
+      "pola": [
+        "Turbo 20x – Bet 500",
+        "Manual 18x – Bet 700",
+        "Buy FS 1x – Bet normal"
+      ],
+      "tips": "Jangan paksa jika tidak connect"
+    },
+    "mahjong": {
+      "jam": "22.00 – 00.00",
+      "pola": [
+        "Manual 15x – Bet 1000",
+        "Turbo 12x – Bet 850",
+        "Buy FS 2x"
+      ],
+      "tips": "Amati warna simbol"
+    },
+    "sweet": {
+      "jam": "09.00 – 11.00 & 18.00 – 20.00",
+      "pola": [
+        "Auto 20x – Bet 600",
+        "Manual 15x – Bet 900",
+        "Buy 2x – Bet bebas"
+      ],
+      "tips": "Perhatikan munculnya gula warna"
+    },
+    "bonanza": {
+      "jam": "15.00 – 17.00",
+      "pola": [
+        "Manual 20x – Bet 800",
+        "Turbo 15x – Bet 1000",
+        "Buy FS 1x – Bet aman"
+      ],
+      "tips": "Lanjutkan kalau connect"
+    }
+  },
+  "2025-07-18": {
+    "gates": {
+      "jam": "12.00 – 14.00",
+      "pola": [
+        "Turbo 25x – Bet 650",
+        "Manual 15x – Bet 1100",
+        "Buy Free Spin 3x – Modal bebas"
+      ],
+      "tips": "Scatter di reel 3 penting"
+    },
+    "starlight": {
+      "jam": "13.00 – 15.00",
+      "pola": [
+        "Manual 20x – Bet 600",
+        "Turbo 22x – Bet 900",
+        "Buy FS 2x – Bet tinggi"
+      ],
+      "tips": "Jangan panik jika kalah"
+    },
+    "mahjong": {
+      "jam": "20.00 – 22.00",
+      "pola": [
+        "Turbo 15x – Bet 700",
+        "Manual 18x – Bet 1000",
+        "Buy FS 1x"
+      ],
+      "tips": "Perhatikan warna dan connect"
+    },
+    "sweet": {
+      "jam": "11.00 – 13.00 & 20.00 – 22.00",
+      "pola": [
+        "Manual 12x – Bet 550",
+        "Auto 28x – Bet 950",
+        "Buy 1x – Bet normal"
+      ],
+      "tips": "Gula warna-warni banyak muncul"
+    },
+    "bonanza": {
+      "jam": "13.00 – 15.00",
+      "pola": [
+        "Turbo 10x – Bet 700",
+        "Manual 12x – Bet 900",
+        "Buy FS 2x – Bet fleksibel"
+      ],
+      "tips": "Kalau connect 2x lanjut"
+    }
+  }
+}
